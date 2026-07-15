@@ -7,7 +7,7 @@ You can find my [Resume](resume) here!
 ## Projects 
 I've worked on a wide variety of projects, mostly focused in the world of literary adaptation and analysis. 
 
-I directed a production of [Antigone](Antigone) in 2026 
+I directed a production of [Antigone](antigone) in 2026 
 
 I conducted independent research under a Hanna Holborn Gray Fellowship 
 
