@@ -1,2 +1,8 @@
 # This is the homepage of my website
-you can find my [resume] (resume) here!
+You can find my [Resume](resume) here!
+[Contact me](#contact-information)
+## Bio 
+
+## Projects 
+
+## Contact Information 
