@@ -1,3 +1,7 @@
+---
+title: Annika Bergstrom
+layout: default
+---
 # This is the homepage of my website
 You can find my [Resume](resume) here!
 
