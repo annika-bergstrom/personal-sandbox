@@ -3,9 +3,17 @@
 
 @import "{{ site.theme }}";
 // navbar style info 
+.banner {
+    height:5%
+    width:fit-content
+    background-color:#D4F5F5
+}
+.page-header {
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+ color: #554348   
+}
 .navbar {
-    height: 40px;
-    background-color: #D4F5F5;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     color: #554348
