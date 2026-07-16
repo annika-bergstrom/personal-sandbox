@@ -19,4 +19,12 @@ I attendend the Macksey Symposium in 2025
 
 I was published in [Intarsia](https://www.intarsiajournal.org/2025/03/17/weve-sung-this-song-a-thousand-times-before-reproductive-futurity-in-the-ninth-hour/)
 
-## Contact Information 
+## Contact Information
+
+<ul class="navbar"> Menu
+Bio 
+Resume
+Projects 
+Contact me 
+</ul>
+
