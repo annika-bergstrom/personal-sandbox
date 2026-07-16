@@ -2,7 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+.navbar ul {
+    list-style-type: none;
+}
 
+.navbar li {
+    display: inline;
+    padding: 5px;
+    margin-right: 10px;
+}
 h1 {
     color: #002566;
     font-family: 'Times New Roman', Times, serif;
