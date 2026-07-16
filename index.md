@@ -2,6 +2,7 @@
 title: Annika Bergstrom
 layout: default
 ---
+
 # This is the homepage of my website
 You can find my [Resume](resume) here!
 
@@ -21,10 +22,13 @@ I was published in [Intarsia](https://www.intarsiajournal.org/2025/03/17/weve-su
 
 ## Contact Information
 
-<ul class="navbar"> Menu
-Bio 
-Resume
-Projects 
-Contact me 
-</ul>
+<nav class="navbar"> 
+    <p class="navbar-label"> Menu </p>
+    <ul>
+        <li>Bio</li>
+        <li><a href=resume.html>Resume</li>
+        <li>Projects</li>
+        <li>Contact me</li>
+    </ul>
+</nav>
 
