@@ -2,7 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-
+// navbar style info 
+.navbar {
+    height: 40px;
+    background-color: #D4F5F5;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #554348
+}
 .navbar ul {
     list-style-type: none;
 }
