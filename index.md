@@ -3,15 +3,6 @@ title: Annika Bergstrom
 layout: default
 ---
 
-<p class="navbar-label"> Menu </p>
-    <ul class="navbar">
-        <li>Bio</li>
-        <li><a href=resume.html>Resume</li>
-        <li>Projects</li>
-        <li>Contact me</li>
-    </ul>
-
-
 # This is the homepage of my website
 You can find my [Resume](resume) here!
 
